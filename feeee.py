@@ -1,4 +1,6 @@
-print ("аллилуяя aaaaaaaaaaaaaaaaaaaaaa")
+
+print ("аллилуяя aaaaaaaaaaaaaaaaaaaaaa a ты?")
+
 k=8
-s=k+2
+s=(k+2)//2
 print(s)
